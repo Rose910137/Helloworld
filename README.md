@@ -8,6 +8,9 @@ Welcome to the **Simple Calculator** project! This repository contains a basic c
 - Supports exponentiation for advanced calculations.
 - Beginner-friendly code with clear structure.
 - Lightweight and easy to set up.
+  User-interface.c
+  it makes the execution more presentable.
+  The answer is shown in a separate line.
 
 ## Getting Started
 
